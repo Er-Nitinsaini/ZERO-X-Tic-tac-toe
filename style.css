@@ -55,7 +55,7 @@ body {
     -webkit-box-align: center;
     -ms-flex-align: center;
     align-items: center;
-    font-family: ROG Fonts, cursive;
+    font-family: ROG Fonts;
     padding-top: 8px;
     color: #ccd841;
     
@@ -65,7 +65,7 @@ body {
     font-size: 20px;
     font-weight: bold;
     color: #ccd841;
-    font-family: ROG Fonts, cursive;
+    font-family: ROG Fonts;
     background-color: #3f2c8a;
     border-radius: 15px;
     height: 3rem;
@@ -82,7 +82,7 @@ body {
     font-size: 20px;
     font-weight: bold;
     color: #eaff04;
-    font-family: ROG Fonts, cursive;
+    font-family: ROG Fonts;
     background-color: #3f2c8a;
     border-radius: 15px;
     height: 2rem;
@@ -98,7 +98,7 @@ body {
 .name {
     font-size: 15px;
     color: #e0fd06;
-    font-family: ROG Fonts, cursive;
+    font-family: ROG Fonts;
     background-color: #352e53;
     border: 2px solid blueviolet;
     border-radius: 15px;
@@ -113,7 +113,7 @@ body {
 .name1 {
     font-size: 15px;
     color: #eaff04;
-    font-family: ROG Fonts, cursive;
+    font-family: ROG Fonts;
     background-color: #3f2c8a;
     border-radius: 15px;
     height: 1.5rem;
