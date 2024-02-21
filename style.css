@@ -1,3 +1,7 @@
+@font-face {
+  font-family: ROG Fonts;
+  src: url(ROGFonts-Regular.otf);
+}
 
 body {
     background-color: #181135;
